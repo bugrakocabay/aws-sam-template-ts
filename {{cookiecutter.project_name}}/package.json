@@ -1,0 +1,15 @@
+{
+  "description": "Quick Template.",
+  "name": "template",
+  "private": true,
+  "scripts": {
+    "integration-test": "jest --roots tests/integration",
+    "unit-test": "jest --roots tests/unit"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "@types/node": "^18.11.18"
+  },
+  "devDependencies": {
+  }
+}
